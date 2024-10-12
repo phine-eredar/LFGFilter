@@ -1,6 +1,6 @@
-﻿## Interface: 90005
+﻿## Interface: 110002
 ## Title: LFGFilter
-## Version: 2.0.2
+## Version: 2.0.3
 ## Author: Rayvor
 ## Notes: Mythic Plus LFG Filter.
 ## Notes-ruRU: Инструмент для фильтра групп подземелий.
